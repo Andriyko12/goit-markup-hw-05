@@ -724,8 +724,7 @@ address {
 	align-items: center;
 }
 
-.modal-check-label span {
-	display: inline-flex;
+.modal-check-label-span {
 	width: 16px;
 	height: 16px;
 	border-radius: 2px;
