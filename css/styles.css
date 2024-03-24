@@ -513,6 +513,7 @@ address {
 	font-size: 12px;
 	line-height: 2;
 	letter-spacing: 0.04em;
+	color: #ffffff;
 	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
@@ -521,7 +522,7 @@ address {
 	font-size: 12px;
 	line-height: 2;
 	letter-spacing: 0.04em;
-	color: #fff;
+	color: #ffffff;
 }
 
 .footer-form-btn {
@@ -634,7 +635,7 @@ address {
 	letter-spacing: 0.04em;
 	color: #8e8f99;
 	margin-bottom: 4px;
-	display: flex;
+	display: block;
 }
 
 .modal-input-wrap {
@@ -730,7 +731,7 @@ address {
 	border-radius: 2px;
 	border: 1px solid rgba(46, 47, 66, 0.4);
 	margin-right: 8px;
-	display: flex;
+	display: inline-flex;
 	align-items: center;
 	justify-content: center;
 	fill: transparent;
